@@ -23,7 +23,7 @@
 header{
     background: rgba(229, 84, 115, 0.10);
     height: 600px;
-    background-image: url("/flower/banner.png");
+    background-image: url("./flower/banner.png");
     background-size: 400px;
     background-repeat: no-repeat;
     background-position: bottom right;
