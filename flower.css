@@ -193,4 +193,23 @@ header{
 .off{
     color: #E55473;
 }
+.pink-img{
+    display: flex;
+    height: 280px;
+    width: 350px;
+    margin-top: 30px;
+}
+.img-1{
+    margin-left: 150px;
+}
+.img-2{
+    margin-left: 20px;
+}
+.img-3{
+    margin-left: 20px;
+}
+.img-4{
+    margin-left: 20px;
+    margin-right: 100px;
+}
 
