@@ -35,7 +35,7 @@ header{
     font-size: 55px;
     font-weight: 800;
     margin-left: 180px;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 .banner-text{
     display: flex;
@@ -48,6 +48,31 @@ header{
     text-align: left;
     margin-left: 180px;
     margin-top: 30px;
+}
+/* navigation related css */
+nav, nav ul{
+    display: flex;
+    text-decoration: none;
+}
+.navh{
+    color: white;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.navu{
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 380px;
+    list-style: none;
+}
+nav ul li{
+    margin-left: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: #111010;
 }
 /* main section related css */
 .featured{
