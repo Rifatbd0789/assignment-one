@@ -17,9 +17,7 @@
     margin-top: 30px;
     border:none;
 }
-
-
-/* header section css */
+/* header related css */
 header{
     background: rgba(229, 84, 115, 0.10);
     height: 600px;
@@ -51,6 +49,7 @@ header{
     margin-left: 180px;
     margin-top: 30px;
 }
+/* main section related css */
 .featured{
     color: #272727;
     text-align: center;
@@ -101,10 +100,17 @@ header{
     margin-left: 20px;
     margin-top: 20px;
 }
-.text{
-    display: inline;
-    margin-left: 230px;
+.textb{
+    display: flex;
+    margin-left: 250px;
     text-align: center;
+    margin-top: 18px;
+}
+.textc{
+    margin-left: 220px;
+}
+.texta{
+    margin-left: 220px;
 }
 .delivery{
     border-radius: 8px;
@@ -261,16 +267,17 @@ header{
     font-weight: 700;
     margin-left: 8px;
 }
+/* footer related css */
 .foot{
     background: #111010;
-    height: 400px;
+    height: 300px;
     position: relative;
 }
 .foot2{
     color: #FFFFFF;
     font-size: 35px;
     font-weight: 800;
-    padding-top: 120px;
+    padding-top: 80px;
     text-align: center;
 }
 .foot3{
@@ -279,7 +286,7 @@ header{
     padding-left: 460px;
     text-align: center;
     font-size: 10px;
-    line-height: 18px;
+    line-height: 20px;
     display: flex;
     width: 350px;
     height: 70px;
@@ -288,9 +295,6 @@ header{
     color: rgba(255, 255, 255, 0.40);
     font-family: Lato;
     font-size: 10px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
     text-align: center;
-    padding-top: 13px;
+    padding-top: 4px;
 }
